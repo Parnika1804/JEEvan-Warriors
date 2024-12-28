@@ -32,4 +32,4 @@ Managing patient records securely. Ensure users can only access the data and fea
 ### Tech Stack 
 - Front-end: HTML, CSS, Javascript
 - Back-end: 
-- API: Postman API
+- API: Postman AP
